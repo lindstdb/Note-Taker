@@ -1,14 +1,13 @@
 // Require Dependencies
-const express = require('express');
-const api = require("./routes");
+const express = require("express");
 const path = require("path");
-
-// Create express application
-const app = express();
+const api = require("./routes");
 
 // Create PORT
 const PORT = process.env.PORT || 3001;
 
+// Create express application
+const app = express();
 
 
 // Use Exrpess to parse data
