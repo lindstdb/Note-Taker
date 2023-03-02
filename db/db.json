@@ -1,23 +1,24 @@
-[
+{
+    "notes": [
     {
-        "title": "Balance accounts",
-        "text": "Balance account books by end of day Monday",
-        "id": "9cfb"  
+        "title": "Fly",
+        "text": "Forget what's possible",
+        "id": "0"  
     },
     {
-        "title": "Balance accounts",
-        "text": "Balance account books by end of day Monday",
-        "id": "9cfb"
+        "title": "Do A Kickflip",
+        "text": "Complete a kickflip by end of business day",
+        "id": "1"
     },
     {
-        "title": "Balance accounts",
-        "text": "Balance account books by end of day Monday",
-        "id": "9cfb"
+        "title": "Run A Marathon",
+        "text": "Find a marathon, run that marathon, win that marathon",
+        "id": "2"
     },
     {
-        "title": "Balance accounts",
-        "text": "Balance account books by end of day Monday",
-        "id": "9cfb"
+        "title": "Grocery",
+        "text": "Milk, Bread, Eggs, Spaghoots",
+        "id": "3"
     }
-
-]
+  ]
+}
