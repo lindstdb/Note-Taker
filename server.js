@@ -4,8 +4,6 @@ const path = require('path');
 
 const fs = require('fs');
 
-const db = reuqire('./db/db.json');
-
 const uuid = require('./helpers/uuid');
 
 const PORT = process.env.PORT || 3001;
